@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+  }
+.card {
+    background-color: gray;
+    padding: 10px 0px 20px 0px;
+    box-sizing: border-box;
+}
+ .title {
+    background-color: rgb(14, 206, 14);
+    padding: 10px;
+    border: 2px solid #052e1b;
+    margin:0px 10px 40px 20px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    box-sizing: border-box;
+ }
+ .content {
+    background-color: #24CCDA;
+    box-sizing: border-box;
+    color: white;
+    padding: 5px 20px;
+ }
+
+  
